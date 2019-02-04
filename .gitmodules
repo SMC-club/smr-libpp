@@ -1,0 +1,4 @@
+[submodule "extras/smcd"]
+	path = extras/smcd
+	url = https://github.com/Muvon/smcd
+	branch = master
