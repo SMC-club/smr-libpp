@@ -1,6 +1,6 @@
 //------------------------------------------------------------------------------
 /*
-    This file is part of smc-libpp: https://github.com/Muvon/smc-libpp
+    This file is part of smr-libpp: https://github.com/Muvon/smr-libpp
     Copyright (c) 2016 Ripple Labs Inc.
 
     Permission to use, copy, modify, and/or distribute this software for any
